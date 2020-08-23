@@ -1,5 +1,5 @@
 
-Prerequiste: make sure that speaarmint framwork works propoerly through running braninpy example as described in https://github.com/JasperSnoek/spearmint
+**Prerequiste:** make sure that speaarmint framwork works propoerly through running braninpy example as described in https://github.com/JasperSnoek/spearmint
 
 To run SimTune example:
 * cd code
