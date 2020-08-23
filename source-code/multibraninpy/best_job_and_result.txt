@@ -1,0 +1,10 @@
+Best result: 3.679843
+Job-id: 6
+Parameters: 
+name: "Task"
+int_val: 0
+
+name: "X"
+dbl_val: 0.625
+dbl_val: 0.375
+

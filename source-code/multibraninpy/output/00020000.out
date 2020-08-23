@@ -1,0 +1,10 @@
+Running in wrapper mode for '/scratch/ayat/code/multitask GP/multibraninpy/jobs/00020000.pb'
+Waiting to lock grid......acquired
+Released lock on job grid.
+Running python job.
+Changed into dir /scratch/ayat/code/multitask GP/multibraninpy
+Got result 31.647114
+Job file reloaded.
+Completed successfully in 0.11 seconds. [31.647114]
+Waiting to lock grid......acquired
+Released lock on job grid.
