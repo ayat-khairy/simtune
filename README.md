@@ -1,6 +1,16 @@
 
 **Prerequiste:** make sure that speaarmint framwork works propoerly through running braninpy example as described in https://github.com/JasperSnoek/spearmint
 
+To run the Similarity Analysis Module:
+* build the workload representation model:
+```
+...
+```
+* find a similar workload:
+```
+...
+```
+
 To run SimTune example:
 * cd source-code
 * edit simtune\config.pb to point to the source workload (i.e. set the 'name' parameter to the file that contains the workload code) and the configuration paramters then start tuning using the following command:
