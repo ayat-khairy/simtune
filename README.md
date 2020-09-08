@@ -1,5 +1,5 @@
 
-**Prerequiste:** make sure that Keras is installed and speaarmint framwork works propoerly through running braninpy example as described in https://github.com/JasperSnoek/spearmint
+**Prerequiste:** make sure that Keras is installed and spearmint framwork works propoerly through running braninpy example as described in https://github.com/JasperSnoek/spearmint
 
 To run Similarity Analysis example:
 1. build the workload representation model:
