@@ -7,7 +7,7 @@ To run Similarity Analysis example:
 cd source-code/similarity-analysis
 python exec_features_representation_learner.py 
 ```
-2. run example of finding a similar workload to Bayes-BD (one of the HiBench workloads https://github.com/Intel-bigdata/HiBench):
+2. run example that analyzes similarity across the dataset workloads (the dataset is based on HiBench workloads https://github.com/Intel-bigdata/HiBench):
 ```
 python analyze_similarity.py
 ```
