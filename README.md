@@ -4,14 +4,13 @@
 To run Similarity Analysis example:
 1. build the workload representation model:
 ```
-* cd source-code/similarity-analysis
-* python exec_features_representation_learner.py 
-...
+cd source-code/similarity-analysis
+python exec_features_representation_learner.py 
 ```
 2. run example of finding a similar workload to Bayes-BD (one of HiBench workloads https://github.com/Intel-bigdata/HiBench):
 ```
-* cd source-code/similarity-analysis
-* python analyze_similarity.py
+cd source-code/similarity-analysis
+python analyze_similarity.py
 ```
 
 To run SimTune example:
